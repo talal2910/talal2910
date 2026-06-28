@@ -27,14 +27,6 @@ I am a **Software Engineer** skilled in full-stack web and mobile development, b
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=talal2910&show_icons=true&theme=tokyonight&count_private=true" alt="Talal's GitHub Stats" width="48%" />
-  <img src="https://github-readme-top-langs.vercel.app/api/?username=talal2910&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="48%" />
-</p>
-
----
 
 ### ⚡ About Me
 
